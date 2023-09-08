@@ -1,0 +1,15 @@
+C:\Users\amori\Desktop\Repos\03_AbstractClasses\Abstract_Demo\Abstract_Demo\Abstract_Demo\bin\Debug\net6.0\Abstract_Demo.exe
+C:\Users\amori\Desktop\Repos\03_AbstractClasses\Abstract_Demo\Abstract_Demo\Abstract_Demo\bin\Debug\net6.0\Abstract_Demo.deps.json
+C:\Users\amori\Desktop\Repos\03_AbstractClasses\Abstract_Demo\Abstract_Demo\Abstract_Demo\bin\Debug\net6.0\Abstract_Demo.runtimeconfig.json
+C:\Users\amori\Desktop\Repos\03_AbstractClasses\Abstract_Demo\Abstract_Demo\Abstract_Demo\bin\Debug\net6.0\Abstract_Demo.dll
+C:\Users\amori\Desktop\Repos\03_AbstractClasses\Abstract_Demo\Abstract_Demo\Abstract_Demo\bin\Debug\net6.0\Abstract_Demo.pdb
+C:\Users\amori\Desktop\Repos\03_AbstractClasses\Abstract_Demo\Abstract_Demo\Abstract_Demo\obj\Debug\net6.0\Abstract_Demo.csproj.AssemblyReference.cache
+C:\Users\amori\Desktop\Repos\03_AbstractClasses\Abstract_Demo\Abstract_Demo\Abstract_Demo\obj\Debug\net6.0\Abstract_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\Desktop\Repos\03_AbstractClasses\Abstract_Demo\Abstract_Demo\Abstract_Demo\obj\Debug\net6.0\Abstract_Demo.AssemblyInfoInputs.cache
+C:\Users\amori\Desktop\Repos\03_AbstractClasses\Abstract_Demo\Abstract_Demo\Abstract_Demo\obj\Debug\net6.0\Abstract_Demo.AssemblyInfo.cs
+C:\Users\amori\Desktop\Repos\03_AbstractClasses\Abstract_Demo\Abstract_Demo\Abstract_Demo\obj\Debug\net6.0\Abstract_Demo.csproj.CoreCompileInputs.cache
+C:\Users\amori\Desktop\Repos\03_AbstractClasses\Abstract_Demo\Abstract_Demo\Abstract_Demo\obj\Debug\net6.0\Abstract_Demo.dll
+C:\Users\amori\Desktop\Repos\03_AbstractClasses\Abstract_Demo\Abstract_Demo\Abstract_Demo\obj\Debug\net6.0\refint\Abstract_Demo.dll
+C:\Users\amori\Desktop\Repos\03_AbstractClasses\Abstract_Demo\Abstract_Demo\Abstract_Demo\obj\Debug\net6.0\Abstract_Demo.pdb
+C:\Users\amori\Desktop\Repos\03_AbstractClasses\Abstract_Demo\Abstract_Demo\Abstract_Demo\obj\Debug\net6.0\Abstract_Demo.genruntimeconfig.cache
+C:\Users\amori\Desktop\Repos\03_AbstractClasses\Abstract_Demo\Abstract_Demo\Abstract_Demo\obj\Debug\net6.0\ref\Abstract_Demo.dll
